@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: django-admin-kubi
+Version: 1.0.9
+Summary: A Django admin template replacement focused on flexibility and user experience
+Home-page: https://github.com/dengunorg/django-admin-kubi
+Author: Rafael Fernandes
+Author-email: rafael@dengun.com
+License: BSD
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Framework :: Django
+Classifier: Topic :: Internet :: WWW/HTTP :: Site Management
+Requires: Django(>=4.0)
+License-File: LICENSE
+
+=================
+DJANGO ADMIN KUBI
+=================
+
+Supports Django 4.0+
+
+Django admin Kubi applies a face lift for the Django admin interface and mechanics. Its features include:
+
+* A fast, attractive editor interface
+* Complete Bootstrap 5 Templates
+* Sass support for custom styling
+* Font awesome
+* Mobile friendly
+* TinyMce Widget
+* Admin with sidebar menu for easy navigation
+* Admin Search View
+* Admin LogEntry view
+* django-modeltranslation support
+* django-modeltrans support
+* django-import-export support
+* django-two-factor-auth support
+* django-colorfield support

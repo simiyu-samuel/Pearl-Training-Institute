@@ -1,0 +1,44 @@
+List of Endpoints
+
+Course Category Endpoints:
+
+GET /api/school/categories/ - List all categories
+POST /api/school/categories/ - Create a new category
+GET /api/school/categories/<id>/ - Retrieve a category
+PUT /api/school/categories/<id>/ - Update a category
+DELETE /api/school/categories/<id>/ - Delete a category
+
+Course Endpoints:
+
+GET /api/school/courses/ - List all courses
+POST /api/school/courses/ - Create a new course
+GET /api/school/courses/<id>/ - Retrieve a course
+PUT /api/school/courses/<id>/ - Update a course
+DELETE /api/school/courses/<id>/ - Delete a course
+
+
+Payment Endpoints:
+
+GET /api/school/payments/ - List all payments
+POST /api/school/payments/ - Record a new payment
+GET /api/school/payments/<id>/ - Retrieve a payment
+PUT /api/school/payments/<id>/ - Update a payment
+DELETE /school/api/payments/<id>/ - Delete a payment
+Mpesa STK Push Endpoint:
+
+POST /api/school/mpesa/stk-push/ - Initiate Mpesa STK Push for online applications
+
+Enrollments Endpoints:
+
+GET /api/school/enrollments/ - List all enrollments
+POST /api/school/enrollments/ - Create a new enrollment
+
+Teachers Endpoints:
+
+GET /api/staff/teachers/ - List all teachers
+POST /api/staff/teachers/ - Create a new teacher
+
+Admissions Endpoints:
+
+GET /api/admissions/ - List all admissions
+POST /api/admissions/ - Create a new admission
